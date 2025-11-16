@@ -90,3 +90,7 @@ A passionate student developer from Bangalore, India, with a love for building s
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sudhanshu-01&theme=radical&hide_border=true&area=true&line=8600b3" alt="Contribution Graph" />
 
 </div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sudhanshu-01/Sudhanshu-01/output/github-snake.svg" alt="Sudhanshu's Contribution Snake" />
+</p>
